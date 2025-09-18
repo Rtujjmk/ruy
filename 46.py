@@ -1,1 +1,1 @@
-rhrtfsbrhsrb
+print('''''''''''')
